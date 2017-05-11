@@ -1,4 +1,4 @@
-FROM java:8u111
+FROM openjdk:8u111
 
 MAINTAINER atSistemas.com
 
